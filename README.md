@@ -209,13 +209,7 @@ Contributions are welcome. To get started:
 
 Cybersecurity enthusiast and developer passionate about building precise, reliable tools and intelligent systems.
 
-[![GitHub](https://img.shields.io/badge/GitHub-DevThakur-181717?style=flat-square&logo=github)](https://github.com/your-username)
-
----
-
-## License
-
-This project is open-source and available under the [MIT License](LICENSE).
+[![GitHub](https://img.shields.io/badge/GitHub-DevThakur-181717?style=flat-square&logo=github)](https://github.com/DEVTHAKUR-90)
 
 ---
 
