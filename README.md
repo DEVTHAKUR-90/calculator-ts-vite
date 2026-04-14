@@ -141,7 +141,7 @@ Entries can be recalled, edited, and re-evaluated at any time.
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/calc.git
+git clone https://github.com/DEVTHAKUR-90/calculator-ts-vite.git
 
 # Navigate into the project directory
 cd calc
