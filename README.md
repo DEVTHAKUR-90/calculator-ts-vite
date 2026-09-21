@@ -11,7 +11,7 @@
 
 </pre>
 
-<div align="center">
+
 
 **A precision-first, browser-based Scientific Calculator**
 
