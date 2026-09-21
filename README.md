@@ -1,23 +1,23 @@
 <div align="center">
-<pre>
 
+<pre>
  ██████╗ █████╗ ██╗      ██████╗
 ██╔════╝██╔══██╗██║     ██╔════╝
 ██║     ███████║██║     ██║     
 ██║     ██╔══██║██║     ██║     
 ╚██████╗██║  ██║███████╗╚██████╗
  ╚═════╝╚═╝  ╚═╝╚══════╝ ╚═════╝
-                                
 </pre>
 
+**PRECISION CALCULATOR**
 
-**A precision-first, browser-based Scientific Calculator**
+**A precision-first, browser-based scientific calculator**
 
 [![React](https://img.shields.io/badge/React-Vite-61DAFB?style=flat-square&logo=react)](https://vitejs.dev/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.0-3178C6?style=flat-square&logo=typescript)](https://www.typescriptlang.org/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3.x-38B2AC?style=flat-square&logo=tailwind-css)](https://tailwindcss.com/)
 
-*As dependable as a Casio fx-991CW — but it runs in your browser.*
+*As dependable as a Casio fx-991CW — but running directly in your browser.*
 
 </div>
 
@@ -25,7 +25,9 @@
 
 ## Overview
 
-**CALC** is a web-based scientific calculator engineered with a strong emphasis on **accuracy, performance, and reliability**. Rather than patching over JavaScript's well-known floating-point limitations, this project addresses them head-on — using high-precision math, a proper expression parser, and verified output before any result is displayed.
+**CALC** is a web-based scientific calculator engineered with a strong emphasis on **accuracy, performance, and reliability**.
+
+Rather than patching over JavaScript's well-known floating-point limitations, this project addresses them head-on — using **high-precision mathematics**, a **proper expression parser**, and **verified output** before any result is displayed.
 
 ---
 
