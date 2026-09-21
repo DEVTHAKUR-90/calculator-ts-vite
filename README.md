@@ -12,7 +12,6 @@
 </pre>
 
 
-
 **A precision-first, browser-based Scientific Calculator**
 
 [![React](https://img.shields.io/badge/React-Vite-61DAFB?style=flat-square&logo=react)](https://vitejs.dev/)
